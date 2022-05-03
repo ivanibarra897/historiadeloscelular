@@ -1,0 +1,171 @@
+.menu{
+	list-style: none;
+	padding: 1;
+	background: black;
+	margin: auto;
+}
+
+.menu li a{
+	text-decoration: underline;
+	border-right: 1px solid #fff;
+	color: white;
+	background: rgba(10, 100, 390,0.8);
+	padding: 20px 85px;
+	display: block;
+	border-radius: 15px;
+	border-bottom: 1;
+	
+}
+.item-r{
+	float: right;
+}
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu  li a:hover{
+	background: black;
+}
+
+.texto{
+
+	font-size: 1.2rem;
+	color: black;
+	position: absolute;
+	left: 20%;
+	top: 115px;
+	text-shadow: 0 0 8px rgba(0, 100, 250, 0.8);
+}
+.imagen figure{
+	position: relative;
+	width: 60%;
+	height: 70%;
+	left: 150px;
+	top: 125px;
+	overflow: hidden;
+	border-radius: 100%;	
+}
+
+.imagen figure img {
+	width: 50%;
+	height: 70%;
+	transition: all 500ms ease-out;
+	box-shadow: 0 2px 2px rgba(0, 0, 0, 0.8);
+}
+
+.textoindex{
+
+	font-size: 1.1rem;
+	color: black;
+	position: absolute;
+	left: 0px;
+	top: 190px;
+	text-shadow: 0 0 8px rgba(0, 50, 250, 0.8);
+}
+
+.imagenindex figure{
+	position: relative;
+	width: 60%;
+	height: 70%;
+	left: 150px;
+	top: 10px;
+	overflow: hidden;
+	border-radius: 100%;	
+}
+.imagenindex figure img {
+	width: 50%;
+	height: 70%;
+	transition: all 500ms ease-out;
+	box-shadow: 0 3px 3px rgba(0, 0, 0, 0.8);
+}
+
+.textohistoria{
+
+	font-size: 1rem;
+	color: black;
+	position: absolute;
+	left: 20%;
+	top: 200px;
+	text-shadow: 0 0 8px rgba(0, 100, 250, 0.8);
+}
+
+.imagenhistoria figure{
+	position: relative;
+	width: 60%;
+	height: 70%;
+	left: 150px;
+	top: 10px;
+	overflow: hidden;
+	border-radius: 100%;
+}
+
+.imagenhistoria1 figure{
+	position: relative;
+	width: 60%;
+	height: 70%;
+	left: 150px;
+	top: 10px;
+	overflow: hidden;
+	border-radius: 100%;
+}
+
+.imagenhistoria2 figure{
+	position: relative;
+	width: 60%;
+	height: 70%;
+	left: 150px;
+	top: 10px;
+	overflow: hidden;
+	border-radius: 100%;
+}
+
+.imagenhistoria3 figure{
+	position: relative;
+	width: 60%;
+	height: 70%;
+	left: 150px;
+	top: 10px;
+	overflow: hidden;
+	border-radius: 100%;
+}
+
+.imagenhistoria4 figure{
+	position: relative;
+	width: 60%;
+	height: 70%;
+	left: 150px;
+	top: 10px;
+	overflow: hidden;
+	border-radius: 100%;
+}
+
+.imagenhistoria5 figure{
+	position: relative;
+	width: 60%;
+	height: 70%;
+	left: 150px;
+	top: 10px;
+	overflow: hidden;
+	border-radius: 100%;
+}
+
+.imagenhistoria6 figure{
+	position: relative;
+	width: 60%;
+	height: 70%;
+	left: 150px;
+	top: 10px;
+	overflow: hidden;
+	border-radius: 100%;
+}
+
+.imagenhistoria7 figure{
+	position: relative;
+	width: 60%;
+	height: 70%;
+	left: 150px;
+	top: 10px;
+	overflow: hidden;
+	border-radius: 100%;
+}
